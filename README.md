@@ -1,2 +1,2 @@
 ﻿# My TicTacToe
-## A simple Tic-Tac-Toe Web-app
+## A Simple Tic-Tac-Toe Web-app
